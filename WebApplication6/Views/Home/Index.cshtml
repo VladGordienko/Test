@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="~/Content/kendo.common.min.css" />
+    <link rel="stylesheet" href="~/Content/kendo.default.min.css" />
+    <link rel="stylesheet" href="~/Content/kendo.default.mobile.min.css" />
+    <link rel="stylesheet" href="~/Content/bootstrap-material-design.css" />
+    <link href="~/Content/kendo.dataviz.default.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo.dataviz.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/style-input.css" />
+    <script src="~/Scripts/jquery.min.js"></script>
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/kendo.all.min.js"></script>
+    <script src="~/scripts/JavaScript.js"></script>
+    <script src="~/scripts/kendo.culture.en-GB.min.js"></script>
+    @*<script src="~/Scripts/appcontroller.js"></script>*@
+</head>
+<body ng-app="MyApp">
+
+        
+        <div id="example" ng-app="MyApp">
+            <div ng-controller="MyCtrl">
+                <div class="demo-section k-content">
+
+                   <h4>Start date:</h4>
+                    <input id="start" style="width: 100%;" value="10/10/2011" />
+
+                    <h4 style="margin-top: 2em">End date:</h4>
+                    <input id="end" style="width: 100%;" value="10/10/2012" />
+
+                    <input type="button" class="btn btn-default" ng-click="pullData()" value="Pull Data" />        
+                </div>
+                    <kendo-grid options="mainGridOptions">
+                        <div k-detail-template>
+                            <kendo-tabstrip>
+                                <ul>
+                                    <li class="k-state-active">Orders</li>
+                                    <li >Full Info</li>                                  
+                                </ul>
+                                <div>
+                                    <div kendo-grid k-options="detailGridOptions(dataItem)"></div>
+                                </div>
+                                @*<div>
+                                    <ul>
+                                        <li><label>Client Cod:</label><span>{{detail.clientuniqcod}}</span></li>
+                                        <li><label>Name:</label> </li>
+                                        <li><label>Data Open:</label> </li>
+                                        <li><label>Left:</label> {{dataItem.Address}}</li>
+                                        <li><label>Plain Left:</label> {{dataItem.HomePhone}}</li>
+                                    </ul>
+                                </div>*@
+                            </kendo-tabstrip>
+                        </div>
+                    </kendo-grid>
+
+
+                </div>
+        </div>
+
+    @*<div id="example" class="container" ng-controller="MyCtrl">
+
+        <h3>КЛИЕНТЫ</h3>
+        <kendo-grid options="mainGridOptions" k-on-filter-menu-init="filterInit(kendoEvent)">
+            <div k-detail-template>
+                <kendo-tabstrip>
+                    <ul>
+                        <li class="k-state-active">СЧЕТА КЛИЕНТА</li>
+                    </ul>
+                    <div>
+                        <div kendo-grid k-options="detailGridOptions(dataItem)"></div>
+                    </div>
+                </kendo-tabstrip>
+            </div>
+        </kendo-grid>
+
+    </div>*@
+</body>
+</html>

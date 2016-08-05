@@ -1,0 +1,394 @@
+﻿[
+  {
+    "clientuniqcod": "93 276 401",
+    "clientname": "Сухова Т.А.",
+    "OKPO": "1 234 567 891",
+    "regdate": "06/07/2010",
+    "exclusiondate": "30/10/2014"
+  },
+  {
+    "clientuniqcod": "93 276 501",
+    "clientname": "Клієнт RNK=932765",
+    "OKPO": "1 234 567 892",
+    "regdate": "06/07/2010",
+    "exclusiondate": "05/10/2012"
+  },
+  {
+    "clientuniqcod": "93 276 601",
+    "clientname": "Клієнт RNK=932766",
+    "OKPO": "1 234 567 893",
+    "regdate": "06/07/2010",
+    "exclusiondate": "17/07/2015"
+  },
+  {
+    "clientuniqcod": "93 276 701",
+    "clientname": "Сухова Тетяна Олексанвд",
+    "OKPO": "1 234 567 894",
+    "regdate": "06/07/2010",
+    "exclusiondate": "26/07/2016"
+  },
+  {
+    "clientuniqcod": "93 278 201",
+    "clientname": "Клієнт RNK=932782",
+    "OKPO": "1 234 567 895",
+    "regdate": "06/07/2010",
+    "exclusiondate": "08/10/2012"
+  },
+  {
+    "clientuniqcod": "93 280 201",
+    "clientname": "Клієнт RNK=932802",
+    "OKPO": "1 234 567 896",
+    "regdate": "06/07/2010",
+    "exclusiondate": "28/07/2016"
+  },
+  {
+    "clientuniqcod": "93 280 301",
+    "clientname": "Клієнт RNK=932803",
+    "OKPO": "1 234 567 897",
+    "regdate": "06/07/2010",
+    "exclusiondate": "29/07/2016"
+  },
+  {
+    "clientuniqcod": "93 282 201",
+    "clientname": "Клієнт RNK=932822",
+    "OKPO": "1 234 567 898",
+    "regdate": "06/07/2010",
+    "exclusiondate": "25/07/2012"
+  },
+  {
+    "clientuniqcod": "93 285 101",
+    "clientname": "Клієнт RNK=932851",
+    "OKPO": "1 234 567 899",
+    "regdate": "07/07/2010",
+    "exclusiondate": "12/10/2012"
+  },
+  {
+    "clientuniqcod": "93 286 201",
+    "clientname": "Клієнт RNK=932862",
+    "OKPO": "1 234 567 900",
+    "regdate": "07/07/2010",
+    "exclusiondate": "01/08/2016"
+  },
+  {
+    "clientuniqcod": "93 290 201",
+    "clientname": "Клієнт RNK=932902",
+    "OKPO": "1 234 567 901",
+    "regdate": "08/07/2010",
+    "exclusiondate": "14/10/2012"
+  },
+  {
+    "clientuniqcod": "93 294 201",
+    "clientname": "Клієнт RNK=932942",
+    "OKPO": "1 234 567 902",
+    "regdate": "09/07/2010",
+    "exclusiondate": "15/10/2012"
+  },
+  {
+    "clientuniqcod": "93 294 601",
+    "clientname": "Клієнт RNK=932946",
+    "OKPO": "1 234 567 903",
+    "regdate": "09/07/2010",
+    "exclusiondate": "04/08/2016"
+  },
+  {
+    "clientuniqcod": "93 300 301",
+    "clientname": "Клієнт RNK=933003",
+    "OKPO": "1 234 567 904",
+    "regdate": "12/07/2010",
+    "exclusiondate": "05/08/2016"
+  },
+  {
+    "clientuniqcod": "93 300 401",
+    "clientname": "Клієнт RNK=933004",
+    "OKPO": "1 234 567 905",
+    "regdate": "12/07/2010",
+    "exclusiondate": "06/08/2016"
+  },
+  {
+    "clientuniqcod": "93 300 501",
+    "clientname": "Клієнт RNK=933005",
+    "OKPO": "1 234 567 906",
+    "regdate": "12/07/2010",
+    "exclusiondate": "07/08/2016"
+  },
+  {
+    "clientuniqcod": "93 300 601",
+    "clientname": "Клієнт RNK=933006",
+    "OKPO": "1 234 567 907",
+    "regdate": "12/07/2010",
+    "exclusiondate": "08/08/2016"
+  },
+  {
+    "clientuniqcod": "93 302 601",
+    "clientname": "Клієнт RNK=933026",
+    "OKPO": "1 234 567 908",
+    "regdate": "13/07/2010",
+    "exclusiondate": "09/08/2016"
+  },
+  {
+    "clientuniqcod": "93 304 201",
+    "clientname": "Клієнт RNK=933042",
+    "OKPO": "1 234 567 909",
+    "regdate": "13/07/2010",
+    "exclusiondate": "10/08/2016"
+  },
+  {
+    "clientuniqcod": "93 304 301",
+    "clientname": "Клієнт RNK=933043",
+    "OKPO": "1 234 567 910",
+    "regdate": "13/07/2010",
+    "exclusiondate": "11/08/2016"
+  },
+  {
+    "clientuniqcod": "93 306 201",
+    "clientname": "Клієнт RNK=933062",
+    "OKPO": "1 234 567 911",
+    "regdate": "16/07/2010",
+    "exclusiondate": "20/01/2011"
+  },
+  {
+    "clientuniqcod": "93 306 301",
+    "clientname": "Клієнт RNK=933063",
+    "OKPO": "1 234 567 912",
+    "regdate": "16/07/2010",
+    "exclusiondate": "08/02/2015"
+  },
+  {
+    "clientuniqcod": "93 308 201",
+    "clientname": "Клієнт RNK=933082",
+    "OKPO": "1 234 567 913",
+    "regdate": "19/07/2010",
+    "exclusiondate": "14/08/2016"
+  },
+  {
+    "clientuniqcod": "93 310 201",
+    "clientname": "Клієнт RNK=933102",
+    "OKPO": "1 234 567 914",
+    "regdate": "19/07/2010",
+    "exclusiondate": "13/08/2010"
+  },
+  {
+    "clientuniqcod": "93 312 201",
+    "clientname": "Клієнт RNK=933122",
+    "OKPO": "1 234 567 915",
+    "regdate": "19/07/2010",
+    "exclusiondate": "28/10/2012"
+  },
+  {
+    "clientuniqcod": "93 314 201",
+    "clientname": "Клієнт RNK=933142",
+    "OKPO": "1 234 567 916",
+    "regdate": "19/07/2010",
+    "exclusiondate": "17/08/2016"
+  },
+  {
+    "clientuniqcod": "93 763 701",
+    "clientname": "Клієнт RNK=937637",
+    "OKPO": "1 234 567 917",
+    "regdate": "22/04/2011",
+    "exclusiondate": "18/08/2016"
+  },
+  {
+    "clientuniqcod": "93 763 801",
+    "clientname": "Клієнт RNK=937638",
+    "OKPO": "1 234 567 918",
+    "regdate": "22/04/2011",
+    "exclusiondate": "13/12/2011"
+  },
+  {
+    "clientuniqcod": "93 764 101",
+    "clientname": "Клієнт RNK=937641",
+    "OKPO": "1 234 567 919",
+    "regdate": "22/04/2011",
+    "exclusiondate": "20/08/2016"
+  },
+  {
+    "clientuniqcod": "93 764 701",
+    "clientname": "Клієнт RNK=937647",
+    "OKPO": "123 456 819",
+    "regdate": "26/04/2011",
+    "exclusiondate": "21/08/2016"
+  },
+  {
+    "clientuniqcod": "93 765 301",
+    "clientname": "Клієнт RNK=937653",
+    "OKPO": "1 234 567 921",
+    "regdate": "26/04/2011",
+    "exclusiondate": "03/11/2012"
+  },
+  {
+    "clientuniqcod": "90 485 201",
+    "clientname": "Клієнт RNK=904852",
+    "OKPO": "1 234 567 922",
+    "regdate": "14/11/2005",
+    "exclusiondate": "18/01/2009"
+  },
+  {
+    "clientuniqcod": "90 485 301",
+    "clientname": "Клієнт RNK=904853",
+    "OKPO": "1 234 567 923",
+    "regdate": "14/11/2005",
+    "exclusiondate": "06/01/2014"
+  },
+  {
+    "clientuniqcod": "90 485 401",
+    "clientname": "Клієнт RNK=904854",
+    "OKPO": "1 234 567 924",
+    "regdate": "14/11/2005",
+    "exclusiondate": "25/08/2016"
+  },
+  {
+    "clientuniqcod": "90 485 501",
+    "clientname": "Клієнт RNK=904855",
+    "OKPO": "1 234 567 925",
+    "regdate": "14/11/2005",
+    "exclusiondate": "01/02/2011"
+  },
+  {
+    "clientuniqcod": "90 485 601",
+    "clientname": "Клієнт RNK=904856",
+    "OKPO": "1 234 567 926",
+    "regdate": "16/11/2005",
+    "exclusiondate": "01/02/2011"
+  },
+  {
+    "clientuniqcod": "90 485 701",
+    "clientname": "Клієнт RNK=904857",
+    "OKPO": "1 234 567 927",
+    "regdate": "16/11/2005",
+    "exclusiondate": "14/11/2013"
+  },
+  {
+    "clientuniqcod": "90 485 801",
+    "clientname": "Клієнт RNK=904858",
+    "OKPO": "1 234 567 928",
+    "regdate": "16/11/2005",
+    "exclusiondate": "01/11/2012"
+  },
+  {
+    "clientuniqcod": "90 618 701",
+    "clientname": "Клієнт RNK=906187",
+    "OKPO": "1 234 567 929",
+    "regdate": "21/11/2006",
+    "exclusiondate": "30/08/2016"
+  },
+  {
+    "clientuniqcod": "90 618 801",
+    "clientname": "Клієнт RNK=906188",
+    "OKPO": "1 234 567 930",
+    "regdate": "21/11/2006",
+    "exclusiondate": "24/08/2015"
+  },
+  {
+    "clientuniqcod": "90 618 901",
+    "clientname": "Клієнт RNK=906189",
+    "OKPO": "1 234 567 931",
+    "regdate": "21/11/2006",
+    "exclusiondate": "14/01/2009"
+  },
+  {
+    "clientuniqcod": "90 619 001",
+    "clientname": "Клієнт RNK=906190",
+    "OKPO": "1 234 567 932",
+    "regdate": "21/11/2006",
+    "exclusiondate": "24/10/2012"
+  },
+  {
+    "clientuniqcod": "90 619 101",
+    "clientname": "Клієнт RNK=906191",
+    "OKPO": "1 234 567 933",
+    "regdate": "22/11/2006",
+    "exclusiondate": "20/11/2013"
+  },
+  {
+    "clientuniqcod": "90 619 201",
+    "clientname": "Клієнт RNK=906192",
+    "OKPO": "1 234 567 934",
+    "regdate": "24/11/2006",
+    "exclusiondate": "04/09/2016"
+  },
+  {
+    "clientuniqcod": "90 619 301",
+    "clientname": "Клієнт RNK=906193",
+    "OKPO": "1 234 567 935",
+    "regdate": "27/11/2006",
+    "exclusiondate": "05/09/2016"
+  },
+  {
+    "clientuniqcod": "90 619 401",
+    "clientname": "Клієнт RNK=906194",
+    "OKPO": "1 234 567 936",
+    "regdate": "28/11/2006",
+    "exclusiondate": "06/08/2007"
+  },
+  {
+    "clientuniqcod": "90 619 501",
+    "clientname": "Клієнт RNK=906195",
+    "OKPO": "1 234 567 937",
+    "regdate": "29/11/2006",
+    "exclusiondate": "14/11/2009"
+  },
+  {
+    "clientuniqcod": "90 619 601",
+    "clientname": "Клієнт RNK=906196",
+    "OKPO": "1 234 567 938",
+    "regdate": "29/11/2006",
+    "exclusiondate": "24/11/2009"
+  },
+  {
+    "clientuniqcod": "90 619 701",
+    "clientname": "Клієнт RNK=906197",
+    "OKPO": "1 234 567 939",
+    "regdate": "30/11/2006",
+    "exclusiondate": "09/09/2016"
+  },
+  {
+    "clientuniqcod": "90 619 801",
+    "clientname": "Клієнт RNK=906198",
+    "OKPO": "1 234 567 940",
+    "regdate": "30/11/2006",
+    "exclusiondate": "17/11/2009"
+  },
+  {
+    "clientuniqcod": "90 619 901",
+    "clientname": "Клієнт RNK=906199",
+    "OKPO": "1 234 567 941",
+    "regdate": "01/12/2006",
+    "exclusiondate": "15/02/2013"
+  },
+  {
+    "clientuniqcod": "90 620 001",
+    "clientname": "Клієнт RNK=906200",
+    "OKPO": "1 234 567 942",
+    "regdate": "01/12/2006",
+    "exclusiondate": "28/10/2011"
+  },
+  {
+    "clientuniqcod": "90 620 101",
+    "clientname": "Клієнт RNK=906201",
+    "OKPO": "1 234 567 943",
+    "regdate": "01/12/2006",
+    "exclusiondate": "19/02/2011"
+  },
+  {
+    "clientuniqcod": "90 620 201",
+    "clientname": "Клієнт RNK=906202",
+    "OKPO": "1 234 567 944",
+    "regdate": "01/12/2006",
+    "exclusiondate": "14/09/2016"
+  },
+  {
+    "clientuniqcod": "90 622 201",
+    "clientname": "Клієнт RNK=906222",
+    "OKPO": "1 234 567 945",
+    "regdate": "04/12/2006",
+    "exclusiondate": "15/09/2016"
+  },
+  {
+    "clientuniqcod": "90 622 301",
+    "clientname": "Клієнт RNK=906223",
+    "OKPO": "1 234 567 946",
+    "regdate": "06/12/2006",
+    "exclusiondate": "23/11/2009"
+  }
+]
